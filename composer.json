@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2": "~2.0.6",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yidas/yii2-fontawesome": "^4.0",
         "mervick/yii2-material-design-icons": "~1.0"
